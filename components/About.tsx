@@ -39,7 +39,7 @@ function About() {
           </p>
           <p className="lg:text-xl md:text-lg text-base font-light">
             When I&apos;m not programming or making content, you can find me
-            playing the guitar, spending time with people, cooking, or reading.
+            playing the guitar, reading, or spending time with people.
             I&apos;m also an author at{" "}
             <a
               className="text-blue"
