@@ -45,6 +45,17 @@ export const completedProjects: Project[] = [
     height: 230,
   },
   {
+    title: "Elkins Newswire",
+    desc: "Elkins Newswire is a platform I developed for my school newspaper. This application enables the students at my school to view the latest news and updates regarding our school, as well as any opportunities that may benefit students.",
+    technologiesUsed: ["Python", "React", "Tailwind"],
+    image: "/projectImgs/newswire.svg",
+    projectLink: "https://knightsnewswire.onrender.com/",
+    gitLink: "",
+    alt: "Elkins Newswire",
+    width: 250,
+    height: 250,
+  },
+  {
     title: "NodeLink",
     desc: "NodeLink is a way for users to connect to audiences with one link. Built using Node.js and React, users can simply register and have a website created for them. Users can customize their site and add links for their audiences.",
     technologiesUsed: ["React", "Node", "Tailwind"],
