@@ -27,17 +27,13 @@ function Skills() {
         {/* Intermediate */}
         <div className="intermediate-row flex flex-wrap ml-6">
           <div className="py-1 px-3 bg-intermediateBg border-2 border-intermediateBorder rounded-xl m-1 flex items-center h-8">
+            <p className="text-sm font-semibold">Java</p>
+          </div>
+          <div className="py-1 px-3 bg-intermediateBg border-2 border-intermediateBorder rounded-xl m-1 flex items-center h-8">
             <p className="text-sm font-semibold">TypeScript</p>
           </div>
           <div className="py-1 px-3 bg-intermediateBg border-2 border-intermediateBorder rounded-xl m-1 flex items-center h-8">
             <p className="text-sm font-semibold">SQL</p>
-          </div>
-        </div>
-
-        {/* Beginner */}
-        <div className="beginner-row flex flex-wrap ml-6">
-          <div className="py-1 px-3 bg-beginnerBg border-2 border-beginnerBorder rounded-xl m-1 flex items-center h-8">
-            <p className="text-sm font-semibold">Java</p>
           </div>
         </div>
       </div>
