@@ -19,10 +19,9 @@ function About() {
           </h2>
           <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
             {" "}
-            I am a {age}-year-old programmer in my sophomore year of high school
-            (class of 2026) with a passion for software engineering. I enjoy
-            building meaningful products that can express my creativity through
-            code.{" "}
+            I am a {age}-year-old programmer in my sophomore year of high
+            schoolwith a passion for software engineering. I enjoy building
+            meaningful products that can express my creativity through code.{" "}
           </p>
           <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
             During my free time, I create content surrounding technology and
@@ -39,8 +38,8 @@ function About() {
           </p>
           <p className="lg:text-xl md:text-lg text-base font-light">
             When I&apos;m not programming or making content, you can find me
-            playing the guitar, reading, or spending time with people.
-            I&apos;m also an author at{" "}
+            playing the guitar, reading, or spending time with people. I&apos;m
+            also an author at{" "}
             <a
               className="text-blue"
               href="https://themorningnews.com/news/author/arpanneupane/"
