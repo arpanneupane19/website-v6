@@ -19,9 +19,9 @@ function About() {
           </h2>
           <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
             {" "}
-            I am a {age}-year-old programmer in my sophomore year of high
-            schoolwith a passion for software engineering. I enjoy building
-            meaningful products that can express my creativity through code.{" "}
+            I am a {age}-year-old programmer in my sophomore year of high school
+            with a passion for software engineering. I enjoy building meaningful
+            products that can express my creativity through code.{" "}
           </p>
           <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
             During my free time, I create content surrounding technology and
