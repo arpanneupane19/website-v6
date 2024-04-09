@@ -37,11 +37,15 @@ function Modal(props: ModalProps) {
         </div>
       </div>
       <div className="flex mt-4">
-        <div className="text-ghPurple mr-2">
-          <Link href={props.gitLink} target="__blank">
-            <FiGithub className="text-2xl mr-2" />
-          </Link>
-        </div>
+        {props.gitLink !== "" ? (
+          <div className="text-ghPurple mr-2">
+            <Link href={props.gitLink} target="__blank">
+              <FiGithub className="text-2xl mr-2" />
+            </Link>
+          </div>
+        ) : (
+          <></>
+        )}
 
         {props.projectLink !== "" ? (
           <div className="text-blue">
